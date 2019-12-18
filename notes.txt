@@ -1,0 +1,13 @@
+supermarket
+-item
+-store
+-sells
+-fatoraused_items 
+-supplier
+-emp/workers 
+-departments 
+-accounts
+
+item          -> name , type , e_date , barcode
+item_price    -> name , type , price , active 
+item_quantity -> name , type ,quantity
