@@ -11,3 +11,18 @@ supermarket
 item          -> name , type , e_date , barcode
 item_price    -> name , type , price , active 
 item_quantity -> name , type ,quantity
+
+
+1+departments
+--emp/workers 
+
+
+2+item
+--store
+--sells
+--price
+
+3+supplier 
+(--suppileritem)
+
+4+accounts
